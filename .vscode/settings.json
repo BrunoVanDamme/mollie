@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        ".next/": true
+        , "node_modules/": true
+        // , ".eslintrc.json": true
+        // , ".gitignore": true
+        // , "package-lock.json": true
+        // , "postcss.config.js": true
+        // , "README.md": true
+        // , "tailwind.config.js": true
+        // , "vercel.json": true
+    }
+}
