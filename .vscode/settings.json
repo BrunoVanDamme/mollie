@@ -5,9 +5,9 @@
         , ".eslintrc.json": true
         , ".gitignore": true
         , "next-env.d.ts": true
-        , "package-lock.json": true
+        , "package-lock.json": false
         , "postcss.config.js": true
-        // , "tailwind.config.js": true
+        , "tailwind.config.js": false
         , "tsconfig.json": true
     }
 }
